@@ -1,6 +1,3 @@
-### Hi there 👋
-I'm Shaun, an ex professional overwatch player. Many of my colleagues and hometown friends thought I should give coding a shot, so I did. Now I put in similar commitment and effort into this
-<!--
 **fishcakefish/fishcakefish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
